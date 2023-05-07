@@ -1,5 +1,5 @@
 # Smart-Controlling-of-Temperature-using-Arduino-with-NRF-Communication
-For a given Threshold Temperature Arduino will Trigger the Relay and Control the Switching of Fan and Bulb
+
 
 The scope of this project is to design and implement an advanced temperature control system using an
 Arduino microcontroller and an LM 35 temperature sensor. The system incorporates a relay to
